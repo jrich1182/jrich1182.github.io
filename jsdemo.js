@@ -1,9 +1,9 @@
 console.log("This output is from the external JS file");
-console.log("Name: Dr. A");
+console.log("Name: Jasmine ");
 console.log("School: CPCC");
 console.log("Grade: Graduate");
 
-var name = "Dr. A";
+var name = "Jasmine";
 let school = "CPCC";
 var grade = "Graduate";
 
