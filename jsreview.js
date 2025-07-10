@@ -15,7 +15,7 @@ let output= "Name: <b>" + name + "</b><br>";
 output += "Grade: <b>" + grade + "</b><br>";
 output += "School: <b>" + school + </b><br>";
 
-  document.getElementById("output).innnerHTML = output;
+  document.getElementById("output).innnerhtml = output;
 }
 
 
